@@ -42,7 +42,7 @@ export default function Footer() {
               <Link href="https://github.com/sowrish1004" target="_blank" className="text-white hover:text-sky-400 transition font-semibold">
                  GitHub
               </Link>
-              <Link href="http://yourportfolio.com" target="_blank" className="text-white hover:text-sky-400 transition font-semibold">
+              <Link href="http://sowrish-portfolio.vercel.app" target="_blank" className="text-white hover:text-sky-400 transition font-semibold">
                  Portfolio URL
               </Link>
             </div>
